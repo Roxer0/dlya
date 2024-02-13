@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        pon
+    </title>
+    <meta charset="utf-8">
+    <style type="text/css">
+        body {
+            background-image: url(svet.jpg);
+           
+        }
+    </style>
+</head>
+<body>
+    <div style="height:64px; width:512px;   margin:auto; 
+font-size: 20px; color: aquamarine;" align="center">
+        <h1>ПОДОЛЯНЧИК ИВАН</h1>
+    </div>
+    <table border="1">
+        <thead>
+            <tr>
+              <th>
+                харя
+              </th>
+                <th>
+                  <img src=" https://sun9-66.userapi.com/impg/bRCewcX2xIsprel4pGCynXxdFZVSuVbZvGVxvA/n5MdVa4weJo.jpg?size=878x1181&quality=96&sign=694286cc9fb4c01b9ea400d00195e371&c_uniq_tag=Zod4LMkCXuARN5J7pTODvXI5J--qZxZxJMvAV_VQkwI&type=album" height="250" />
+                </th>
+              <th>
+                            <img src="https://via-midgard.com/uploads/posts/2013-05/1368976365_60.jpg " height="250" />
+              </th>
+              <th>
+                                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vladimir_Lenin.jpg/230px-Vladimir_Lenin.jpg" height="250" />
+              </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>
+                    фио
+                </th>
+                <td>
+                    <a href="stalin.html"><h1>Сталин Иосиф Виссарионович</h1></a>
+                </td>
+              <td>
+                            <a href="gitler.html"><h1>Гитлер Адольф</h1></a>
+              </td>
+              <td>
+                                    <a href="lenin.html"><h1>Ленин Владимир Ильич</h1></a>
+              </td>
+            </tr>
+
+        </tbody>
+    
+    </table>
+
+</body>
+</html>
